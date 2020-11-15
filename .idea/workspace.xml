@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16ce1422-c29b-4ce0-85b0-1dc782e5d2ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZoqeSCPJ0UVl0QHiXjeB4qYQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yolov5-master - (2)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects(2)\YOLO v3\models" />
+      <recent name="D:\PycharmProjects(2)\YOLO v3\Test_files" />
+      <recent name="D:\PycharmProjects(2)\YOLO v3" />
+      <recent name="D:\PycharmProjects(2)\YOLO v3\data2\images" />
+      <recent name="D:\PycharmProjects(2)\YOLO v3\data2\xml_files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects(2)\YOLO v3" />
+      <recent name="D:\PycharmProjects(2)\YOLO v3\data2" />
+      <recent name="D:\PycharmProjects(2)\YOLO v3\Test_files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test04">
+    <configuration name="detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO v3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detector2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO v3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detector2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO v3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_files/test04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="torch_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO v3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/WXWork/1688853426858154/WeDrive/猎维科技/20期资料/1、环境安装课程/环境安装配置" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:/WXWork/1688853426858154/WeDrive/猎维科技/20期资料/1、环境安装课程/环境安装配置/torch_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO v3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test04" />
+        <item itemvalue="Python.detector2" />
+        <item itemvalue="Python.detector" />
+        <item itemvalue="Python.torch_test" />
+        <item itemvalue="Python.trainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16ce1422-c29b-4ce0-85b0-1dc782e5d2ab" name="Default Changelist" comment="" />
+      <created>1604021166047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604021166047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="896" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604021416462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="896" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604021416462" />
+    <state x="684" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604312973316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604312973316" />
+    <state x="769" y="160" key="FileChooserDialogImpl" timestamp="1604818321444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="160" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604818321444" />
+    <state width="1476" height="173" key="GridCell.Tab.0.bottom" timestamp="1605004428177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1476" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605004428177" />
+    <state width="1476" height="173" key="GridCell.Tab.0.center" timestamp="1605004428177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1476" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605004428177" />
+    <state width="1476" height="173" key="GridCell.Tab.0.left" timestamp="1605004428177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1476" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605004428177" />
+    <state width="1476" height="173" key="GridCell.Tab.0.right" timestamp="1605004428177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1476" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605004428177" />
+    <state width="1481" height="239" key="GridCell.Tab.1.bottom" timestamp="1604498028809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604498028809" />
+    <state width="1481" height="239" key="GridCell.Tab.1.center" timestamp="1604498028809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="239" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604498028809" />
+    <state width="1481" height="239" key="GridCell.Tab.1.left" timestamp="1604498028809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="239" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604498028809" />
+    <state width="1481" height="239" key="GridCell.Tab.1.right" timestamp="1604498028809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="239" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604498028809" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1604907656536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604907656536" />
+    <state x="860" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604194431927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="860" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604194431927" />
+    <state x="0" y="0" width="1176" height="861" key="dock-window-1" timestamp="1604219669633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1176" height="861" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1604219669633" />
+    <state x="0" y="50" width="1297" height="824" key="dock-window-2" timestamp="1604221423676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="50" width="1297" height="824" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1604221423676" />
+    <state x="0" y="0" width="821" height="926" key="dock-window-3" timestamp="1604312661821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="821" height="926" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1604312661821" />
+    <state x="2" y="16" width="1288" height="876" key="dock-window-4" timestamp="1604393495476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2" y="16" width="1288" height="876" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1604393495476" />
+    <state x="18" y="68" width="815" height="731" key="dock-window-5" timestamp="1604484174718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="18" y="68" width="815" height="731" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1604484174718" />
+    <state x="587" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1604460409124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604460409124" />
+  </component>
+</project>
